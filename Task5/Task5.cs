@@ -1,7 +1,7 @@
 ﻿//5.Дано расстояние в сантиметрах. Найти число полных метров в нем.
 using System;
 
-class Program
+class Task5
 {
     static void Main()
     {
